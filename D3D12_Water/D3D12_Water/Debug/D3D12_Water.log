@@ -1,0 +1,10 @@
+﻿  Graphics.cpp
+f:\notepc_data\d3d12_water\d3d12_water\graphics.cpp(22): warning C4316: 'D3D': ヒープで割り当てられたオブジェクトが 16 にアラインメントされていない可能性があります
+f:\notepc_data\d3d12_water\d3d12_water\graphics.cpp(27): warning C4316: 'Camera': ヒープで割り当てられたオブジェクトが 16 にアラインメントされていない可能性があります
+  コードを生成中...
+  コンパイル中...
+  main.cpp
+  System.cpp
+  コードを生成中...
+  D3D12_Water.vcxproj -> F:\NotePC_Data\D3D12_Water\Debug\D3D12_Water.exe
+  D3D12_Water.vcxproj -> F:\NotePC_Data\D3D12_Water\Debug\D3D12_Water.pdb (Partial PDB)
